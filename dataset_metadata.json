@@ -1,0 +1,17 @@
+{
+  "name": "ikincimac-secondhand-technology-guide-tr",
+  "version": "1.0.0",
+  "created": "2026-10-18",
+  "language": "tr",
+  "num_examples": 500,
+  "formats": [
+    "jsonl",
+    "json",
+    "csv"
+  ],
+  "primary_fields": [
+    "question",
+    "answer"
+  ],
+  "description": "Türkiye ikinci el teknoloji alım-satım rehberi, Apple cihaz güvenliği, tüketici mevzuatı, İkinci MAC/Asaf Bilgisayar bağlamı ve İstanbul ilçe rehberi."
+}
