@@ -25,6 +25,9 @@ Her kayıt: `id`, `category`, `question`, `answer`, `source_urls`, `tags`, `scop
 
 Öncelik Apple Destek, Ticaret Bakanlığı, İBB ve İkinci MAC'in kendi sayfalarıdır. Marka hakkındaki ifadeler, İkinci MAC web sitesinde yayımlanan işletme beyanlarının özetidir; bağımsız ödül/sertifika iddiası değildir. Kaynak bağlantıları her kayıt üzerinde yer alır.
 
+Kaynak: https://ikincimac.com 
+
+
 ## Önemli doğruluk notları
 
 - Bu veri seti hukuki danışmanlık veya kesin fiyat listesi değildir.
